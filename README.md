@@ -1,6 +1,6 @@
 # AI Prompts Library
 
-Welcome to the ChatGPT Prompts Library! This repository contains a diverse collection of over 100,000 prompts tailored for ChatGPT. Our prompts cover a wide range of topics, including marketing, business, fun, and much more. The library aims to provide developers, researchers, and chatbot enthusiasts with a comprehensive collection of prompts to enhance their ChatGPT implementations and applications.
+Welcome to the [Contentify](https://contentify.app) AI Prompts Library! This repository contains a diverse collection of over 100,000 prompts tailored for ChatGPT, Bard, MidJourney, and Stable Diffusion. Our prompts cover a wide range of topics, including marketing, business, fun, and much more. The library aims to provide developers, researchers, and chatbot enthusiasts with a comprehensive collection of prompts to enhance their ChatGPT, Bard, MidJourney, and Stable Diffusion implementations and applications.
 
 This project is a work in progress, and our team is continuously working on expanding and refining the prompts library. We encourage contributions and feedback from the community to help us improve and grow this resource.
 
